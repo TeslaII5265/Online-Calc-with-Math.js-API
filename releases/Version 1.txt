@@ -1,0 +1,2 @@
+Version 1 - Demo for Math.js API.
+Demonstrates basic Web API usage and how to encode a url to UTF8. 
