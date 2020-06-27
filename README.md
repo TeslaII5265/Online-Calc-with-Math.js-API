@@ -29,3 +29,5 @@ Skills covered in this demo:
 • Using Java to improve UI (borders, rounded corners, font size relative to screen size, etc.)
 
 • Custom font
+
+• Custom easy drawer (for Sketchware specifically) 
